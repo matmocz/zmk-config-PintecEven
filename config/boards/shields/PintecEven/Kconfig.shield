@@ -1,0 +1,2 @@
+config SHIELD_PINTECEVEN
+    def_bool $(shields_list_contains, PintecEven)
